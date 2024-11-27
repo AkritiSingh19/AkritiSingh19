@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkritiSingh19
+- 👋 Hi, I’m Akriti Singh
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 😄 Pronouns: She
 
